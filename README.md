@@ -33,6 +33,7 @@ This project demonstrates practical skills in embedded programming, IoT communic
 ## Future
 
 Future iterations may include mobile dashboard integration, data logging, adaptive session timing, and deeper environmental awareness.
-Lampiran
+
+#### Attachment
 https://drive.google.com/drive/folders/1o5Cx0W6EFn5sGVF_Z-SeLXALzSyNuDr6?usp=sharing
 
